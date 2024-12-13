@@ -1,0 +1,13 @@
+Testowanie_czy_plik(0/1): 1
+Plik_wejsciowy: dane4.atsp
+Plik_wyjsciowy: wyniki.csv
+progres(1/0): 1
+liczba_instancji: 7
+rozmiar1: 4
+rozmiar2: 6
+rozmiar3: 8
+rozmiar4: 9
+rozmiar5: 10
+rozmiar6: 11
+rozmiar7: 12
+powtorzenia: 100
